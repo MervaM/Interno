@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Interno/static/css/main.eab77461.css",
+    "main.js": "/Interno/static/js/main.2cf0aade.js",
+    "static/media/first_background.png": "/Interno/static/media/first_background.340e49e83e0334da3076.png",
+    "static/media/mod_bact2.png": "/Interno/static/media/mod_bact2.98b42b33b1077f7bab65.png",
+    "static/media/fourth_background.png": "/Interno/static/media/fourth_background.1085cfca6d9288e1a871.png",
+    "static/media/wedo1.png": "/Interno/static/media/wedo1.df0e17cfed877e2f49d3.png",
+    "static/media/mod_back1.png": "/Interno/static/media/mod_back1.c4862be10047103b3553.png",
+    "static/media/project1.png": "/Interno/static/media/project1.3a045c6aa6384b3145d9.png",
+    "static/media/mod_2img2.png": "/Interno/static/media/mod_2img2.7cf2140e7c6e32aae510.png",
+    "static/media/interier.png": "/Interno/static/media/interier.9315e5779145a829cf42.png",
+    "static/media/six_background.png": "/Interno/static/media/six_background.16b3b0df019d8823f87c.png",
+    "static/media/project3.png": "/Interno/static/media/project3.2ccf3dfef4824e8a11c8.png",
+    "static/media/project4.png": "/Interno/static/media/project4.21b73cb1555e78ad43d3.png",
+    "static/media/third_background.png": "/Interno/static/media/third_background.091bfb55cc34e9170f8f.png",
+    "static/media/project2.png": "/Interno/static/media/project2.068c2968355f8f8a5ddc.png",
+    "static/media/second_background.png": "/Interno/static/media/second_background.e6ffc92aba274c31b6d4.png",
+    "static/media/p1.png": "/Interno/static/media/p1.3021b747c4ae9bdebf7b.png",
+    "static/media/wedo2.png": "/Interno/static/media/wedo2.168b71186718bed5182f.png",
+    "static/media/welovedes.png": "/Interno/static/media/welovedes.8caa9682cd1590b1cc04.png",
+    "static/media/secondimg.png": "/Interno/static/media/secondimg.43be768543cb8cfeaf07.png",
+    "static/media/firstimg.png": "/Interno/static/media/firstimg.f88f54e6a4cdbf340b36.png",
+    "static/media/thirdimg.png": "/Interno/static/media/thirdimg.f759fde0c85f3fb92b22.png",
+    "static/media/girl1.png": "/Interno/static/media/girl1.ffa2d5d4585bf70e1bb0.png",
+    "static/media/girl2.png": "/Interno/static/media/girl2.8fad9065fa6c5ebc37d5.png",
+    "static/media/man1.png": "/Interno/static/media/man1.9f8aebb0b968941e04a1.png",
+    "index.html": "/Interno/index.html",
+    "main.eab77461.css.map": "/Interno/static/css/main.eab77461.css.map",
+    "main.2cf0aade.js.map": "/Interno/static/js/main.2cf0aade.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eab77461.css",
+    "static/js/main.2cf0aade.js"
+  ]
+}
